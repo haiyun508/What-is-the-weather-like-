@@ -36,7 +36,7 @@ Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 
 ### Part II - VacationPy
-![heatmap.png](../WeatherPy/images/heatmap.png)
+![heatmap.png](WeatherPy/images/heatmap.png)
 
 I created a heat map that displays the humidity for every city from Part I and narrowed down the DataFrame to find the cities with ideal weather condition:
 
