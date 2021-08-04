@@ -47,7 +47,7 @@ Wind speed less than 10 mph.
 
 
 Zero cloudiness.
-![hotel.png](WeatherPy/images/Hotel-map.png)
+![hotel.png](WeatherPy/images/Hotel_map.png)
  
 Using Google Places API, I found the first hotel for each city located within 5000 meters of the coordinates and plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
