@@ -36,6 +36,8 @@ Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 
 ### Part II - VacationPy
+![heatmap.png](weatherpy/Images/vine01.png)
+
 I created a heat map that displays the humidity for every city from Part I and narrowed down the DataFrame to find the cities with ideal weather condition:
 
 A max temperature lower than 80 degrees but higher than 70.
@@ -45,6 +47,7 @@ Wind speed less than 10 mph.
 
 
 Zero cloudiness.
+![vine01.png](Images/vine01.png)
  
 Using Google Places API, I found the first hotel for each city located within 5000 meters of the coordinates and plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
