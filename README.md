@@ -2,7 +2,7 @@
 
  "What's the weather like as we approach the equator?"
 
-Part I - WeatherPy
+### Part I - WeatherPy
 
 I randomly select 500 unique (non-repeat) cities based on latitude and longitude and perform a weather check on each of the cities using a series of API calls with the use of Python library, the OpenWeatherMap API. I created a Python script to visualize the weather of these cities.
 A series of scatter plots were created to showcase the following relationships:
@@ -35,7 +35,7 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude
 Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 
-Part II - VacationPy
+### Part II - VacationPy
 I created a heat map that displays the humidity for every city from Part I and narrowed down the DataFrame to find the cities with ideal weather condition:
 
 A max temperature lower than 80 degrees but higher than 70.
